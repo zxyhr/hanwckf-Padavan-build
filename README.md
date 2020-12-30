@@ -5,4 +5,4 @@
 - [Hanwckf](https://github.com/hanwckf/rt-n56u/commits/master)
 - [ChongshengB](https://github.com/chongshengB/rt-n56u/commits/master)
 - [Yh793](https://github.com/Yh793/Padavan-build/)
-- [vb1980](https://github.com/vb1980/Padavan
+- [vb1980](https://github.com/vb1980/Padavan/)
